@@ -1,9 +1,13 @@
 {
   "user": 
-    { 
-      "id": 1,
-      "firstname": "Anton",
-      "lastname": "bruh"
-    }
-  
+   { 
+     "id": 1,
+     "firstname": "Anton",
+     "lastname": "bruh"
+   },
+  {
+    "id": 2,
+    "firstname": "Kevin",
+    "lastname": "Min"
+  }
 }
