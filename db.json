@@ -1,4 +1,5 @@
-[
+{
+    "user": [
     {
         "id": 1,
         "title": "Post Title 1",
@@ -169,3 +170,4 @@
         "comment": 15
     }
 ]
+}
