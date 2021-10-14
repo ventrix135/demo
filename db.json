@@ -11,7 +11,18 @@
       "days": "3 days ago",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eu mi nibh. Nunc sollicitudin, urna sit amet lobortis viverra, metus ex suscipit urna, a dignissim nibh urna nec elit. Duis tincidunt maximus finibus...",
       "like": 14,
-      "comment": 15
+      "comment": 15,
+      "comments": [
+        {
+          "id": 1,
+          "by": "Someone",
+          "pp": "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+          "days": "2 days ago",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eu mi nibh. Nunc sollicitudin, urna sit amet lobortis viverra, metus ex suscipit urna, a dignissim nibh urna nec elit. Duis tincidunt maximus finibus...",
+          "likes": 14,
+          "comment": 15
+        }
+      ]
     },
     {
       "id": 2,
